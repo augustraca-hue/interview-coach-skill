@@ -1,5 +1,5 @@
 # Coaching State — Joss Lai
-Last updated: 2026-02-27
+Last updated: 2026-03-01
 
 ## Profile
 - Target role(s): IC PM / Senior Product Manager (B2C)
@@ -35,8 +35,8 @@ Last updated: 2026-02-27
   7. Hang Seng Bank — CBDC (Central Bank Digital Currency) work with China (likely e-CNY / mBridge related) + proprietary API and Open Banking Foundation build. Direct digital currency product experience. Scope/contribution details TBD — needs clarification to determine if Tier 1 or Tier 2. Critical for Robinhood application answer and any crypto-facing role.
 
 ## Storybank
-| ID | Title | Primary Skill | Earned Secret | Strength | Last Used |
-|----|-------|---------------|---------------|----------|-----------|
+| ID | Title | Primary Skill | Secondary Skill | Earned Secret | Strength | Use Count | Last Used |
+|----|-------|---------------|-----------------|---------------|----------|-----------|-----------|
 [empty — build with `stories add`]
 
 ### Story Details
@@ -55,6 +55,30 @@ Last updated: 2026-02-27
 | Date | Company | Role | Round | Result | Notes |
 |------|---------|------|-------|--------|-------|
 | 2026-02 | Unknown | PM/SPM (B2C) | HR + HM | rejected | First loop in current search; failed at HM stage |
+
+## Interview Intelligence
+
+### Question Bank
+| Date | Company | Role | Round Type | Question | Competency | Score | Outcome |
+|------|---------|------|------------|----------|------------|-------|---------|
+[none yet]
+
+### Effective Patterns (what works for this candidate)
+[none yet — populate through analyze/practice sessions]
+
+### Ineffective Patterns (what keeps not working)
+[none yet — populate through analyze/practice sessions]
+
+### Recruiter/Interviewer Feedback
+| Date | Company | Source | Feedback | Linked Dimension |
+|------|---------|--------|----------|------------------|
+[none yet]
+
+### Company Patterns (learned from real experience)
+[none yet — populate through debrief/analyze sessions]
+
+### Historical Intelligence Summary
+[none yet]
 
 ## Drill Progression
 - Current stage: 1
@@ -89,6 +113,8 @@ Last updated: 2026-02-27
 - Date prepped: 2026-02-26
 
 ### Sun Life Financial
+
+#### Role A: Digital Product Owner, Retail Wealth Platform / SLFISI (prepped 2026-02-26)
 - Status: Applied
 - Fit assessment: Moderate
 - Round formats:
@@ -108,10 +134,37 @@ Last updated: 2026-02-27
   2. "You mentioned syncing with other Product Owners — how many POs are on the wealth platform, and how is the roadmap coordinated across the team?"
   3. "How does the team measure success for this platform — outcome metrics, or primarily delivery milestones?"
 - Next round: TBD — awaiting response
-- Fit assessment: Moderate — SLFISI Retail Wealth Platform is newer/more ambiguous than typical Sun Life incumbent role (upside). But sits third in priority behind Relay (better comp, startup pace, exact domain) and Plusgrade (better comp, platform ownership). Pursue in parallel — don't deprioritize, but don't over-invest at expense of Relay.
-- Key signals: Digital Product Owner (execution-heavy PO role, not strategic PM). Domain: investment services / advisor + client platform. Agile delivery execution + investment services knowledge are top 2 filters. CSPO + PSPO I directly map to "Certified Product Owner" nice-to-have. Salary $90-140K base — negotiation toward top end required.
+- Fit verdict: Moderate
+- Fit confidence: Medium — JD + resume (no storybank yet)
+- Fit signals: Execution-heavy PO role. Domain: investment services / advisor + client platform. Agile delivery execution + investment services knowledge are top 2 filters. CSPO + PSPO I directly map to "Certified Product Owner" nice-to-have. Salary $90-140K base — negotiation toward top end required.
+- Structural gaps: Investment funds product ownership (adjacent via iTRADE but not direct). Advisor-facing B2B2C vs. pure B2C.
 - Date researched: 2026-02-26
 - Date prepped: 2026-02-26
+
+#### Role B: Product Owner, GRS Member Journey (JR00120911) — decoded 2026-03-01
+- Status: Not yet applied — decoded 2026-03-01
+- Fit assessment: Investable Stretch — mobile ownership + stakeholder management credentials are strong; group retirement domain is a real gap requiring explicit bridging. Stronger strategic scope than Role A; better matched to Joss's actual level.
+- Round formats:
+  - Stage 1: Recruiter/HR screen — behavioral + background (unconfirmed — typical Sun Life process)
+  - Stage 2: Hiring Manager interview — behavioral + product thinking + domain probe (unconfirmed)
+  - Stage 3: Cross-functional panel (unconfirmed)
+- Stories used: [none yet]
+- Concerns surfaced:
+  1. Group retirement domain gap (DC pension plans, vesting schedules, contribution matching, group RRSP administration) — Severity: Medium. Counter: iTRADE is investment execution adjacent; frame as "financial services depth + rapid domain ramp-up." JD says "sound grasp of financial concepts" — not deep pension expertise required.
+  2. Change management — Severity: Low-Medium. Counter: CIBC FINTRAC = delivery-led org change across 14+ stakeholders. "I drive change through delivery, not alongside it."
+  3. B2B2C (employer + member) vs. pure B2C — Severity: Low. PO role appears scoped to member self-serve only; employer relationship likely out of scope. Verify with recruiter.
+  4. Employment gap Oct 2025 – Feb 2026 — Severity: Medium (standard 2-sentence answer).
+  5. Strategic PM potentially over-qualified for PO title — Severity: Low-Medium. Counter: JD scope is more senior than title suggests ("define target state operating model"). This role needs a strategic PM, not just a PO.
+- Prepared questions:
+  1. "Can you tell me more about what 'defining the target state operating model for the digital channel' looks like in practice — is that a strategic input into a broader program, or is the PO driving that independently?"
+  2. "Is deep knowledge of DC pension or group retirement plans expected coming in, or is financial services experience with domain ramp-up the expectation?"
+  3. "What's driving the change management emphasis in this role — is there a specific organizational or technology transformation underway on the GRS team?"
+- Next round: TBD — need to apply first
+- Fit verdict: Investable Stretch
+- Fit confidence: Medium — JD + resume (no storybank yet)
+- Fit signals: Mobile ownership (iTRADE 1.4M trades, 147K users) + large-org stakeholder management (CIBC 14+ stakeholder groups, 50+ executive sessions) = strongest competency overlap. Strategic scope ("define vision," "business model evolution") is better matched to Joss's actual level than Role A. Salary $95,500–$133,700.
+- Structural gaps: Group retirement plan mechanics (DC pensions, vesting, contribution matching, employer-member dynamic). No prior product ownership in group retirement domain.
+- Date researched: 2026-03-01
 
 ### Relay Financial
 - Status: Applied
@@ -204,7 +257,7 @@ Last updated: 2026-02-27
 - Date applied: 2026-02-27
 
 #### Role 1: Product Owner, Wealth Platform Enhancements (J65601) — $94K-$117K base
-- Status: Applied — recruiter phone screen booked for 2026-03-03 (Monday)
+- Status: Applied — recruiter phone screen booked for 2026-03-03 (Monday) ⚠️ URGENT — 48 HOURS
 - Fit assessment: Strong — best domain alignment in pipeline after Questrade. Three explicit JD pillars (client onboarding, fund transfer, trading) map directly to CIBC onboarding (14+ days → 3), Scotiabank funding friction (→20%+ lift), and iTRADE (1.4M mobile trades). Triple-hit is rare. Clearing/custody partner experience (FCC) = analogous to Interac consortium multi-party infrastructure. CSPO + PSPO I = direct match to cert nice-to-have.
 - Concerns surfaced:
   1. B2B2C advisor-facing platform vs. pure B2C — Severity: Medium (counter: iTRADE served traders + advisor-directed flows; CIBC digital identity served both end clients and advisors/RM workflows)
@@ -259,6 +312,99 @@ Last updated: 2026-02-27
 - Self-assessment tendency: [TBD]
 - Previous approaches: []
 
+## Calibration State
+
+### Calibration Status
+- Current calibration: uncalibrated
+- Last calibration check: never
+- Data points available: 1 real interview with outcome (unknown company, HR + HM stages, rejected)
+
+### Scoring Drift Log
+| Date | Dimension | Direction | Evidence | Adjustment |
+|------|-----------|-----------|----------|------------|
+[none yet]
+
+### Calibration Adjustments
+| Date | Trigger | What Changed | Rationale |
+|------|---------|--------------|-----------|
+[none yet]
+
+### Cross-Dimension Root Causes (active)
+| Root Cause | Affected Dimensions | First Detected | Status | Treatment |
+|------------|---------------------|----------------|--------|-----------|
+[none yet]
+
+### Unmeasured Factor Investigations
+| Date | Trigger | Hypothesis | Investigation | Finding | Action |
+|------|---------|------------|---------------|---------|--------|
+[none yet]
+
+## LinkedIn Analysis
+- Date: [not yet run]
+- Depth: [not yet run]
+- Overall: [not yet assessed]
+- Recruiter discoverability: [not yet assessed]
+- Credibility on visit: [not yet assessed]
+- Differentiation: [not yet assessed]
+- Top fixes pending: [run `linkedin` to populate]
+- Positioning gaps: [not yet assessed]
+
+## Resume Optimization
+- Date: [not yet run]
+- Depth: [not yet run]
+- Overall: [not yet assessed]
+- ATS compatibility: [not yet assessed]
+- Recruiter scan: [not yet assessed]
+- Bullet quality: [not yet assessed]
+- Seniority calibration: [not yet assessed]
+- Keyword coverage: [not yet assessed]
+- Top fixes pending: [run `resume` to populate]
+- JD-targeted: no
+- Cross-surface gaps: [not yet assessed]
+
+## Positioning Statement
+- Date: [not yet run]
+- Depth: [not yet run]
+- Core statement: [run `pitch` to populate]
+- Hook (10s): [not yet run]
+- Key differentiator: [not yet run]
+- Earned secret anchor: [not yet run]
+- Target audience: [not yet run]
+- Variant status: [not yet run]
+- Consistency status: [not yet assessed]
+
+## Outreach Strategy
+- Date: [not yet run]
+- Depth: [not yet run]
+- Positioning source: [not yet run]
+- Message types coached: [run `outreach` to populate]
+- Targets contacted: [none]
+- Channel strategy: [not yet run]
+- Follow-up status: [none]
+- LinkedIn profile flagged: [not yet assessed]
+- Key hooks identified: [not yet run]
+
+## JD Analysis: Sun Life Financial — Product Owner, GRS Member Journey
+- Date: 2026-03-01
+- Depth: Standard
+- Fit verdict: Investable Stretch
+- Top competencies: (1) Mobile product ownership & end-to-end delivery, (2) Cross-functional stakeholder management in large org, (3) Product vision & strategy definition
+- Frameable gaps: Group retirement domain (bridge via iTRADE investment execution + financial services depth + ramp-up narrative); change management (bridge via CIBC FINTRAC delivery-led org transformation)
+- Structural gaps: Group retirement plan mechanics — no DC pension/group RRSP product ownership history
+- Unverified assumptions: 5 (strategic scope vs. execution balance; domain ramp-up expectation; change management specifics; B2B2C member-only vs. employer scope; primary office location)
+- Batch triage rank: N/A (single JD)
+
+## Comp Strategy
+- Date: [not yet run]
+- Depth: [not yet run]
+- Target range: not yet researched
+- Range basis: [not yet run]
+- Research completeness: none
+- Stage coached: [not yet run]
+- Jurisdiction notes: [not yet run]
+- Scripts provided: [not yet run]
+- Key principle: [run `salary` to populate]
+
 ## Meta-Check Log
 | Session | Candidate Feedback | Adjustment Made |
 |---------|-------------------|-----------------|
@@ -277,6 +423,7 @@ Last updated: 2026-02-27
 | 2026-02-27 | prep Plusgrade PM Payments | Full prep brief generated for PM, Payments role — distinct from 2026-02-25 innovation products prep. Fit: Moderate-Strong — payments IS Joss's domain (Scotiabank funding friction, CIBC Interac, iTRADE, Hang Seng API). Primary gap: no direct PSP vendor management or multi-PSP orchestration ownership. Comp lowest in pipeline at $100-118K base. Storybank still empty — critical blocker. Priority stories before applying: CIBC onboarding (Q1/Q5/Q7), Scotiabank funding friction (Q4/Q8 bridge), Hang Seng Open Banking (Q3/Q8), CIBC executive sessions (Q9). |
 | 2026-02-27 | pipeline update | Applied to Questrade, Relay, Robinhood, Sun Life, both Fidelity roles. Plusgrade Innovation Products closed (posting taken down). Plusgrade Payments pending. Two Fidelity roles added: Wealth Platform Enhancements (Strong fit — onboarding + fund transfer + trading = exact domain triple; recruiter call Monday 2026-03-03) and general PO role (Moderate fit). Total active applications: 6. |
 | 2026-02-27 | prep Bree (Founding PM) | Full prep brief generated. Fit: Strong — fintech experience (Scotiabank personal loan, CIBC onboarding, FINTRAC) = direct match to consumer lending + regulated environment. Primary risk: startup context (first PM, no playbook). Top competencies: extreme ownership, analytical rigor, execution velocity. Key stories to prepare: CIBC onboarding (ownership + regulated env), A.S. Watson (0→1 speed), funding friction (data-driven improvement), iTRADE (inherited chaos + scaling). |
+| 2026-03-01 | decode Sun Life GRS Member Journey PO | Standard decode. Fit: Investable Stretch. Mobile ownership (iTRADE) + large-org stakeholder management (CIBC) = strong competency match. Domain gap: group retirement mechanics (DC pensions, vesting, contribution matching) — real but frameable. Strategic scope of this role better matched to Joss's actual level than SLFISI Role A. Added as Sun Life Role B. Schema migrated: added Secondary Skill + Use Count to Storybank, added Interview Intelligence, Calibration State, LinkedIn Analysis, Resume Optimization, Positioning Statement, Outreach Strategy, Comp Strategy sections. |
 
 ## Coaching Notes
 - 2026-02-25: Candidate's stated biggest concern is interview performance + applying to industries without direct experience (non-fintech B2C). Clarified: ~80% of applications are fintech/financial services; stretch targets are wellness, travel, e-commerce, entertainment. B2C experience is genuine and strong — concern is more about interview delivery than positioning. CIBC Enterprise Digital Identity and US Retail transformation were client-facing (not internal), confirming deep B2C background.
