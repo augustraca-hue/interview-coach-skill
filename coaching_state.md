@@ -151,7 +151,7 @@ Last updated: 2026-03-01
 - Stories used: [none yet]
 - Concerns surfaced:
   1. Group retirement domain gap (DC pension plans, vesting schedules, contribution matching, group RRSP administration) — Severity: Medium. Counter: iTRADE is investment execution adjacent; frame as "financial services depth + rapid domain ramp-up." JD says "sound grasp of financial concepts" — not deep pension expertise required.
-  2. Change management — Severity: Low-Medium. Counter: CIBC FINTRAC = delivery-led org change across 14+ stakeholders. "I drive change through delivery, not alongside it."
+  2. Change management — Severity: Low. Two distinct examples confirmed: (1) Hang Seng API ecosystem: "defining cross-functional operating model" = direct match to JD's "Define the target state operating model for the digital channel." (2) CIBC: "enterprise change strategy" for AI knowledge base national rollout (25K+ users, all employees) = adoption-at-scale CM ownership. Use Hang Seng for operating model design questions; use CIBC for adoption/change management questions.
   3. B2B2C (employer + member) vs. pure B2C — Severity: Low. PO role appears scoped to member self-serve only; employer relationship likely out of scope. Verify with recruiter.
   4. Employment gap Oct 2025 – Feb 2026 — Severity: Medium (standard 2-sentence answer).
   5. Strategic PM potentially over-qualified for PO title — Severity: Low-Medium. Counter: JD scope is more senior than title suggests ("define target state operating model"). This role needs a strategic PM, not just a PO.
@@ -162,7 +162,7 @@ Last updated: 2026-03-01
 - Next round: TBD — need to apply first
 - Fit verdict: Strong Fit
 - Fit confidence: High — JD + full resume reviewed 2026-03-01
-- Fit signals: 6 of 7 competencies confirmed Match from master resume. Change management: CIBC "enterprise change strategy" for AI knowledge base national rollout (25K+ users, all employees) = explicit CM ownership. Test-and-learn: A.S. Watson A/B testing (32% conversion improvement) + Core Competencies. Product vision: "Architected the North Star and multi-year roadmap" at CIBC. Mobile: iTRADE strategy + metrics + roadmap ownership + #1 competitor ranking. Sole remaining preparation item: group retirement domain ramp-up narrative.
+- Fit signals: 6 of 7 competencies confirmed Match from master resume. Change management: two examples — (1) Hang Seng "defining cross-functional operating model" for API ecosystem = operating model design; (2) CIBC "enterprise change strategy" + AI KB national rollout (25K+ users) = adoption-at-scale CM. Product vision: "Architected the North Star and multi-year roadmap" at CIBC. Mobile: iTRADE strategy + metrics + roadmap + #1 competitor ranking. Test-and-learn: A.S. Watson A/B testing (32% conversion improvement). Sole remaining preparation item: group retirement domain ramp-up narrative.
 - Structural gaps: Group retirement plan mechanics (DC pensions, vesting, contribution matching, employer-member dynamic). No prior product ownership in group retirement domain. All other competencies confirmed Match.
 - Date researched: 2026-03-01
 
