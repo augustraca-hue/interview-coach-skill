@@ -143,7 +143,7 @@ Last updated: 2026-03-01
 
 #### Role B: Product Owner, GRS Member Journey (JR00120911) — decoded 2026-03-01
 - Status: Not yet applied — decoded 2026-03-01
-- Fit assessment: Investable Stretch — mobile ownership + stakeholder management credentials are strong; group retirement domain is a real gap requiring explicit bridging. Stronger strategic scope than Role A; better matched to Joss's actual level.
+- Fit assessment: Strong Fit — resume confirms Match on all core competencies (mobile ownership, stakeholder management, product vision, change management, agile, test-and-learn). Single remaining gap: group retirement domain mechanics. Stronger strategic scope than Role A; better matched to Joss's actual level.
 - Round formats:
   - Stage 1: Recruiter/HR screen — behavioral + background (unconfirmed — typical Sun Life process)
   - Stage 2: Hiring Manager interview — behavioral + product thinking + domain probe (unconfirmed)
@@ -160,10 +160,10 @@ Last updated: 2026-03-01
   2. "Is deep knowledge of DC pension or group retirement plans expected coming in, or is financial services experience with domain ramp-up the expectation?"
   3. "What's driving the change management emphasis in this role — is there a specific organizational or technology transformation underway on the GRS team?"
 - Next round: TBD — need to apply first
-- Fit verdict: Investable Stretch
-- Fit confidence: Medium — JD + resume (no storybank yet)
-- Fit signals: Mobile ownership (iTRADE 1.4M trades, 147K users) + large-org stakeholder management (CIBC 14+ stakeholder groups, 50+ executive sessions) = strongest competency overlap. Strategic scope ("define vision," "business model evolution") is better matched to Joss's actual level than Role A. Salary $95,500–$133,700.
-- Structural gaps: Group retirement plan mechanics (DC pensions, vesting, contribution matching, employer-member dynamic). No prior product ownership in group retirement domain.
+- Fit verdict: Strong Fit
+- Fit confidence: High — JD + full resume reviewed 2026-03-01
+- Fit signals: 6 of 7 competencies confirmed Match from master resume. Change management: CIBC "enterprise change strategy" for AI knowledge base national rollout (25K+ users, all employees) = explicit CM ownership. Test-and-learn: A.S. Watson A/B testing (32% conversion improvement) + Core Competencies. Product vision: "Architected the North Star and multi-year roadmap" at CIBC. Mobile: iTRADE strategy + metrics + roadmap ownership + #1 competitor ranking. Sole remaining preparation item: group retirement domain ramp-up narrative.
+- Structural gaps: Group retirement plan mechanics (DC pensions, vesting, contribution matching, employer-member dynamic). No prior product ownership in group retirement domain. All other competencies confirmed Match.
 - Date researched: 2026-03-01
 
 ### Relay Financial
@@ -387,7 +387,7 @@ Last updated: 2026-03-01
 ## JD Analysis: Sun Life Financial — Product Owner, GRS Member Journey
 - Date: 2026-03-01
 - Depth: Standard
-- Fit verdict: Investable Stretch
+- Fit verdict: Strong Fit (upgraded from Investable Stretch after full resume review 2026-03-01)
 - Top competencies: (1) Mobile product ownership & end-to-end delivery, (2) Cross-functional stakeholder management in large org, (3) Product vision & strategy definition
 - Frameable gaps: Group retirement domain (bridge via iTRADE investment execution + financial services depth + ramp-up narrative); change management (bridge via CIBC FINTRAC delivery-led org transformation)
 - Structural gaps: Group retirement plan mechanics — no DC pension/group RRSP product ownership history
@@ -423,7 +423,7 @@ Last updated: 2026-03-01
 | 2026-02-27 | prep Plusgrade PM Payments | Full prep brief generated for PM, Payments role — distinct from 2026-02-25 innovation products prep. Fit: Moderate-Strong — payments IS Joss's domain (Scotiabank funding friction, CIBC Interac, iTRADE, Hang Seng API). Primary gap: no direct PSP vendor management or multi-PSP orchestration ownership. Comp lowest in pipeline at $100-118K base. Storybank still empty — critical blocker. Priority stories before applying: CIBC onboarding (Q1/Q5/Q7), Scotiabank funding friction (Q4/Q8 bridge), Hang Seng Open Banking (Q3/Q8), CIBC executive sessions (Q9). |
 | 2026-02-27 | pipeline update | Applied to Questrade, Relay, Robinhood, Sun Life, both Fidelity roles. Plusgrade Innovation Products closed (posting taken down). Plusgrade Payments pending. Two Fidelity roles added: Wealth Platform Enhancements (Strong fit — onboarding + fund transfer + trading = exact domain triple; recruiter call Monday 2026-03-03) and general PO role (Moderate fit). Total active applications: 6. |
 | 2026-02-27 | prep Bree (Founding PM) | Full prep brief generated. Fit: Strong — fintech experience (Scotiabank personal loan, CIBC onboarding, FINTRAC) = direct match to consumer lending + regulated environment. Primary risk: startup context (first PM, no playbook). Top competencies: extreme ownership, analytical rigor, execution velocity. Key stories to prepare: CIBC onboarding (ownership + regulated env), A.S. Watson (0→1 speed), funding friction (data-driven improvement), iTRADE (inherited chaos + scaling). |
-| 2026-03-01 | decode Sun Life GRS Member Journey PO | Standard decode. Fit: Investable Stretch. Mobile ownership (iTRADE) + large-org stakeholder management (CIBC) = strong competency match. Domain gap: group retirement mechanics (DC pensions, vesting, contribution matching) — real but frameable. Strategic scope of this role better matched to Joss's actual level than SLFISI Role A. Added as Sun Life Role B. Schema migrated: added Secondary Skill + Use Count to Storybank, added Interview Intelligence, Calibration State, LinkedIn Analysis, Resume Optimization, Positioning Statement, Outreach Strategy, Comp Strategy sections. |
+| 2026-03-01 | decode Sun Life GRS Member Journey PO | Standard decode → Strong Fit (upgraded from Investable Stretch after full resume review). Master resume confirmed Match on 6/7 competencies: mobile, stakeholder management, product vision (CIBC North Star + roadmap), change management (CIBC enterprise change strategy + AI KB national rollout 25K+ users), agile, test-and-learn (A.S. Watson A/B tests). Single preparation item: group retirement domain ramp-up narrative. Added as Sun Life Role B. Schema migrated: added Secondary Skill + Use Count to Storybank, added Interview Intelligence, Calibration State, LinkedIn Analysis, Resume Optimization, Positioning Statement, Outreach Strategy, Comp Strategy sections. |
 
 ## Coaching Notes
 - 2026-02-25: Candidate's stated biggest concern is interview performance + applying to industries without direct experience (non-fintech B2C). Clarified: ~80% of applications are fintech/financial services; stretch targets are wellness, travel, e-commerce, entertainment. B2C experience is genuine and strong — concern is more about interview delivery than positioning. CIBC Enterprise Digital Identity and US Retail transformation were client-facing (not internal), confirming deep B2C background.
