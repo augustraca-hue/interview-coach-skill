@@ -350,17 +350,17 @@ Last updated: 2026-03-01
 - Positioning gaps: [not yet assessed]
 
 ## Resume Optimization
-- Date: [not yet run]
-- Depth: [not yet run]
-- Overall: [not yet assessed]
-- ATS compatibility: [not yet assessed]
-- Recruiter scan: [not yet assessed]
-- Bullet quality: [not yet assessed]
-- Seniority calibration: [not yet assessed]
-- Keyword coverage: [not yet assessed]
-- Top fixes pending: [run `resume` to populate]
-- JD-targeted: no
-- Cross-surface gaps: [not yet assessed]
+- Date: 2026-03-02
+- Depth: Standard + JD-Targeted (Sun Life GRS Member Journey PO)
+- Overall: Strong
+- ATS compatibility: ATS-Risky — "Relevant Experience" non-standard header; credentials in title line
+- Recruiter scan: Strong — quantified throughout, clear progression
+- Bullet quality: Strong — accomplishment-oriented, XYZ passes on most bullets
+- Seniority calibration: Aligned — senior PM verbs, scope escalates across roles
+- Keyword coverage: Moderate → targeted version closes gap
+- Top fixes pending: (1) Summary rewrite with "member journey / self-serve / target-state" language; (2) CIBC AI KB bullet rewrite to lead with "enterprise change strategy + target-state adoption model"; (3) Scotiabank operating cadence bullet → add "target-state" framing; (4) Add "Member self-serve digital products" + "Operating model definition" to Skills; (5) Fix header + title line
+- JD-targeted: yes — Sun Life GRS Member Journey PO (JR00120911)
+- Cross-surface gaps: [not yet assessed — LinkedIn not run]
 
 ## Positioning Statement
 - Date: [not yet run]
@@ -424,6 +424,7 @@ Last updated: 2026-03-01
 | 2026-02-27 | pipeline update | Applied to Questrade, Relay, Robinhood, Sun Life, both Fidelity roles. Plusgrade Innovation Products closed (posting taken down). Plusgrade Payments pending. Two Fidelity roles added: Wealth Platform Enhancements (Strong fit — onboarding + fund transfer + trading = exact domain triple; recruiter call Monday 2026-03-03) and general PO role (Moderate fit). Total active applications: 6. |
 | 2026-02-27 | prep Bree (Founding PM) | Full prep brief generated. Fit: Strong — fintech experience (Scotiabank personal loan, CIBC onboarding, FINTRAC) = direct match to consumer lending + regulated environment. Primary risk: startup context (first PM, no playbook). Top competencies: extreme ownership, analytical rigor, execution velocity. Key stories to prepare: CIBC onboarding (ownership + regulated env), A.S. Watson (0→1 speed), funding friction (data-driven improvement), iTRADE (inherited chaos + scaling). |
 | 2026-03-01 | decode Sun Life GRS Member Journey PO | Standard decode → Strong Fit (upgraded from Investable Stretch after full resume review). Master resume confirmed Match on 6/7 competencies: mobile, stakeholder management, product vision (CIBC North Star + roadmap), change management (CIBC enterprise change strategy + AI KB national rollout 25K+ users), agile, test-and-learn (A.S. Watson A/B tests). Single preparation item: group retirement domain ramp-up narrative. Added as Sun Life Role B. Schema migrated: added Secondary Skill + Use Count to Storybank, added Interview Intelligence, Calibration State, LinkedIn Analysis, Resume Optimization, Positioning Statement, Outreach Strategy, Comp Strategy sections. |
+| 2026-03-02 | resume (GRS-targeted) | Standard + JD-targeted optimization against Sun Life GRS JD. Key changes: summary rewrite (member journey / self-serve / target-state language); CIBC AI KB bullet rewrite (change management lead + "target-state adoption model"); Scotiabank operating cadence bullet rewrite ("target-state" language); Skills reorder + add "Member self-serve digital products" + "Operating model definition"; drop Android + product coach bullets; merge velocity/backlog; fix ATS header + title line. 20-min implementation. |
 
 ## Coaching Notes
 - 2026-02-25: Candidate's stated biggest concern is interview performance + applying to industries without direct experience (non-fintech B2C). Clarified: ~80% of applications are fintech/financial services; stretch targets are wellness, travel, e-commerce, entertainment. B2C experience is genuine and strong — concern is more about interview delivery than positioning. CIBC Enterprise Digital Identity and US Retail transformation were client-facing (not internal), confirming deep B2C background.
